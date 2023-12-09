@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.exe
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.deps.json
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.runtimeconfig.json
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.dll
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.pdb
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfo.cs
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.dll
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\refint\CodingTest.dll
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.pdb
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.genruntimeconfig.cache
+C:\Users\user\source\repos\JungGyeongmi\CodingTest\CodingTest\CodingTest\obj\Debug\net6.0\ref\CodingTest.dll
